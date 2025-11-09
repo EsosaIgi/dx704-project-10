@@ -1,0 +1,4 @@
+paragraph-vectors.tsv.gz
+question-vectors.tsv
+question-matches.tsv
+worst-paragraphs.tsv
